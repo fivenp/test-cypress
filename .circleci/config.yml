@@ -5,4 +5,4 @@ workflows:
   test:
     jobs:
       - cypress/run:
-          package-manager: 'npx'
+          package-manager: 'npm'
