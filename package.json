@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "testme": "cypress run --record --spec \"cypress/integration/simple-test.js\""
+    "testme": "cypress run --spec \"cypress/integration/simple-test.js\""
   },
   "keywords": [],
   "author": "",
