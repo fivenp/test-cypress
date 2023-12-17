@@ -6,4 +6,3 @@ workflows:
     jobs:
       - cypress/run:
           package-manager: 'yarn'
-          start-command: 'yarn testme'
